@@ -31,7 +31,7 @@ I am a **Data Engineer** and **MS Applied Data Analytics** student at **Boston U
 
 My work sits across **data engineering, analytics, machine learning, and research**. I have published IEEE research on **Pix2Pix-GAN lung segmentation** and I am currently working on research exploring **LLMs in reinforcement learning**.
 
-I like building projects that go beyond coursework: agentic LLM systems, 3D avatar reconstruction, IoT monitoring dashboards, Formula 1 analytics, and full-stack apps.
+I like building projects that go beyond coursework: streaming fraud systems, self-healing data pipelines, research intelligence engines, IoT monitoring dashboards, and agentic LLM workflows.
 
 ---
 
@@ -45,7 +45,7 @@ I like building projects that go beyond coursework: agentic LLM systems, 3D avat
 
 **Data & Analytics:** SQL, PostgreSQL, SQL Server, MySQL, Power BI, Tableau, Excel, ETL, DBMS, data modeling, statistical analysis  
 **Machine Learning & AI:** Scikit-learn, regression, ANOVA, PPO, LLMs, LangGraph, Ollama, MuJoCo, Pix2Pix-GAN  
-**Cloud & Tools:** AWS S3/Lambda, Docker, DigitalOcean, PM2, nginx, REST APIs, Git, StarRez, Leaflet
+**Cloud & Tools:** AWS S3/Lambda, Docker, Redpanda/Kafka, FastAPI, Streamlit, DigitalOcean, PM2, nginx, REST APIs, Git, StarRez, Leaflet
 
 ---
 
@@ -54,17 +54,29 @@ I like building projects that go beyond coursework: agentic LLM systems, 3D avat
 <table>
   <tr>
     <td width="50%">
+      <h3>FinGuard Real-Time Fraud Intelligence Platform</h3>
+      <p>Streaming fraud detection platform with Redpanda/Kafka, Python producer/consumer services, PostgreSQL, Redis, FastAPI, Streamlit, and Docker.</p>
+      <p><a href="https://github.com/suff28/finguard-fraud-intelligence-platform">GitHub</a></p>
+    </td>
+    <td width="50%">
+      <h3>DataPulse AI Self-Healing Data Pipeline</h3>
+      <p>Data reliability platform that normalizes messy CSV feeds, validates schema/types/domains, quarantines failed records, and generates repair suggestions.</p>
+      <p><a href="https://github.com/suff28/datapulse-ai-self-healing-pipeline">GitHub</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>PaperGraph Research Intelligence Engine</h3>
+      <p>Research intelligence engine that extracts methods, datasets, metrics, and graph relationships from AI and medical imaging papers, including my IEEE paper.</p>
+      <p><a href="https://github.com/suff28/papergraph-research-intelligence-engine">GitHub</a></p>
+    </td>
+    <td width="50%">
       <h3>CleanCampus Urban Heat Island Dashboard</h3>
       <p>BU IoT monitoring dashboard using Node.js, PostgreSQL, Leaflet, PM2/nginx, and DigitalOcean to collect live sensor readings and visualize campus heat patterns.</p>
       <p>
         <a href="https://github.com/suff28/cleancampus-urban-heat-island">GitHub</a> |
         <a href="https://suff28.github.io/cleancampus-urban-heat-island/">Live Demo</a>
       </p>
-    </td>
-    <td width="50%">
-      <h3>Formula 1 Pit Stop Analytics DBMS</h3>
-      <p>End-to-end Formula 1 analytics system with Python ETL, SQL Server schema design, ERD modeling, star schema reporting, and slow pit-stop prediction.</p>
-      <p><a href="https://github.com/suff28/formula1-pitstop-dbms">GitHub</a></p>
     </td>
   </tr>
   <tr>
@@ -74,21 +86,9 @@ I like building projects that go beyond coursework: agentic LLM systems, 3D avat
       <p><a href="https://github.com/suff28/multi-agent-web-qa-system">GitHub</a></p>
     </td>
     <td width="50%">
-      <h3>3D Avatar Reconstruction Pipeline</h3>
-      <p>Converted visual references into optimized GLB assets and integrated a personal 3D avatar into a Unity/Blender game prototype.</p>
-      <p><a href="https://github.com/suff28/3D-avatar-reconstruction-pipeline">GitHub</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>RL Biped Robot Simulation</h3>
-      <p>Designed a bird-legged biped in Blender, simulated it in MuJoCo, and trained walking behavior with PPO-style reinforcement learning rewards.</p>
-      <p><a href="https://github.com/suff28/bird-legged-biped-robot">GitHub</a></p>
-    </td>
-    <td width="50%">
-      <h3>Spotify Popularity Analysis</h3>
-      <p>Analyzed 1,000 Spotify tracks in R using regression, t-tests, ANOVA, and ggplot visualizations to study popularity patterns.</p>
-      <p><a href="https://github.com/suff28/spotify-popularity-analysis">GitHub</a></p>
+      <h3>Formula 1 Pit Stop Analytics DBMS</h3>
+      <p>End-to-end Formula 1 analytics system with Python ETL, SQL Server schema design, ERD modeling, star-schema reporting, and slow pit-stop prediction.</p>
+      <p><a href="https://github.com/suff28/formula1-pitstop-dbms">GitHub</a></p>
     </td>
   </tr>
 </table>
