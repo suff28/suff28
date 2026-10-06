@@ -55,24 +55,24 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
   <tr>
     <td width="50%">
       <h3>FinGuard Real-Time Fraud Intelligence Platform</h3>
-      <p>Streaming fraud detection platform with Redpanda/Kafka, Python producer/consumer services, PostgreSQL, Redis, FastAPI, Streamlit, and Docker.</p>
+      <p>Scores synthetic card transactions in real time with Redpanda/Kafka, Python consumers, PostgreSQL, Redis, FastAPI, Streamlit, and Docker.</p>
       <p><a href="https://github.com/suff28/finguard-fraud-intelligence-platform">GitHub</a></p>
     </td>
     <td width="50%">
       <h3>DataPulse AI Self-Healing Data Pipeline</h3>
-      <p>Data reliability platform that normalizes messy CSV feeds, validates schema/types/domains, quarantines failed records, and generates repair suggestions.</p>
+      <p>Normalizes messy CSV feeds, validates schema/type/domain rules, quarantines failed records, scores pipeline health, and generates repair suggestions.</p>
       <p><a href="https://github.com/suff28/datapulse-ai-self-healing-pipeline">GitHub</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>PaperGraph Research Intelligence Engine</h3>
-      <p>Research intelligence engine that extracts methods, datasets, metrics, and graph relationships from AI and medical imaging papers, including my IEEE paper.</p>
+      <p>Indexes AI and medical imaging papers, extracts methods/datasets/metrics, and builds graph relationships around research tasks, including my IEEE paper.</p>
       <p><a href="https://github.com/suff28/papergraph-research-intelligence-engine">GitHub</a></p>
     </td>
     <td width="50%">
       <h3>CleanCampus Urban Heat Island Dashboard</h3>
-      <p>BU IoT monitoring dashboard using Node.js, PostgreSQL, Leaflet, PM2/nginx, and DigitalOcean to collect live sensor readings and visualize campus heat patterns.</p>
+      <p>BU IoT monitoring dashboard using Node.js, PostgreSQL, Leaflet, PM2/nginx, and DigitalOcean to collect live sensor readings and map campus heat patterns.</p>
       <p>
         <a href="https://github.com/suff28/cleancampus-urban-heat-island">GitHub</a> |
         <a href="https://suff28.github.io/cleancampus-urban-heat-island/">Live Demo</a>
@@ -82,12 +82,12 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
   <tr>
     <td width="50%">
       <h3>Agentic LLM Web QA System</h3>
-      <p>Local multi-agent QA workflow using LangGraph/Ollama with researcher, evaluator, and writer agents that search, rank evidence, and generate sourced answers.</p>
+      <p>Local multi-agent QA workflow using LangGraph/Ollama with researcher, evaluator, and writer agents that search, rank evidence, and return sourced answers.</p>
       <p><a href="https://github.com/suff28/multi-agent-web-qa-system">GitHub</a></p>
     </td>
     <td width="50%">
       <h3>Formula 1 Pit Stop Analytics DBMS</h3>
-      <p>End-to-end Formula 1 analytics system with Python ETL, SQL Server schema design, ERD modeling, star-schema reporting, and slow pit-stop prediction.</p>
+      <p>Formula 1 analytics warehouse with Python ETL, SQL Server schema design, ERD modeling, star-schema reporting, and slow pit-stop prediction.</p>
       <p><a href="https://github.com/suff28/formula1-pitstop-dbms">GitHub</a></p>
     </td>
   </tr>
