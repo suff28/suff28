@@ -54,19 +54,19 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
 <table>
   <tr>
     <td width="50%">
-      <h3>FinGuard Real-Time Fraud Intelligence Platform</h3>
+      <h3>Card Fraud Detection and Alerting Platform</h3>
       <p>Scores synthetic card transactions in real time with Redpanda/Kafka, Python consumers, PostgreSQL, Redis, FastAPI, Streamlit, and Docker.</p>
       <p><a href="https://github.com/suff28/finguard-fraud-intelligence-platform">GitHub</a></p>
     </td>
     <td width="50%">
-      <h3>DataPulse AI Self-Healing Data Pipeline</h3>
+      <h3>Pipeline Health Monitor</h3>
       <p>Normalizes messy CSV feeds, validates schema/type/domain rules, quarantines failed records, scores pipeline health, and generates repair suggestions.</p>
       <p><a href="https://github.com/suff28/datapulse-ai-self-healing-pipeline">GitHub</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>PaperGraph Research Intelligence Engine</h3>
+      <h3>Research Evidence Explorer</h3>
       <p>Indexes AI and medical imaging papers, extracts methods/datasets/metrics, and builds graph relationships around research tasks, including my IEEE paper.</p>
       <p><a href="https://github.com/suff28/papergraph-research-intelligence-engine">GitHub</a></p>
     </td>
@@ -81,12 +81,12 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
   </tr>
   <tr>
     <td width="50%">
-      <h3>Agentic LLM Web QA System</h3>
+      <h3>Multi Agent Web Research Assistant</h3>
       <p>Local multi-agent QA workflow using LangGraph/Ollama with researcher, evaluator, and writer agents that search, rank evidence, and return sourced answers.</p>
       <p><a href="https://github.com/suff28/multi-agent-web-qa-system">GitHub</a></p>
     </td>
     <td width="50%">
-      <h3>Formula 1 Pit Stop Analytics DBMS</h3>
+      <h3>Formula 1 Pit Stop Analysis and Prediction</h3>
       <p>Formula 1 analytics warehouse with Python ETL, SQL Server schema design, ERD modeling, star-schema reporting, and slow pit-stop prediction.</p>
       <p><a href="https://github.com/suff28/formula1-pitstop-dbms">GitHub</a></p>
     </td>
