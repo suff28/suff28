@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070917,45:21133c,100:6bf0d2&text=Mohammed%20Sufiyan&fontColor=f7f4ff&fontSize=58&fontAlignY=38&desc=Data%20Engineer%20%7C%20Applied%20AI%20%7C%20Analytics%20Builder&descAlignY=58&descSize=18" alt="Mohammed Sufiyan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070917,45:21133c,100:6bf0d2&text=Mohammed%20Sufiyan&fontColor=f7f4ff&fontSize=58&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Quality%20%7C%20Analytics&descAlignY=58&descSize=18" alt="Mohammed Sufiyan banner" />
 
   <br />
 
   <a href="https://github.com/suff28">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1100&color=6BF0D2&center=true&vCenter=true&width=720&lines=MS+Applied+Data+Analytics+%40+Boston+University;Building+ETL+pipelines%2C+dashboards%2C+and+AI+systems;IEEE-published+research+%2B+hands-on+data+engineering" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1100&color=6BF0D2&center=true&vCenter=true&width=720&lines=MS+Applied+Data+Analytics+%40+Boston+University;Python%2C+SQL%2C+AWS%2C+Spark%2C+Airflow%2C+dbt;IEEE+research+%2B+data+engineering+projects" alt="Typing animation" />
   </a>
 
   <br />
@@ -27,11 +27,11 @@
 
 ### About Me
 
-I am a **Data Engineer** and **MS Applied Data Analytics** student at **Boston University**, focused on building reliable ETL pipelines, optimized SQL workflows, cloud-backed dashboards, and applied AI systems.
+I am a **Data Engineer** completing an **MS in Applied Data Analytics** at **Boston University**. I work with Python, SQL, AWS, Spark, Airflow, dbt, Snowflake, and data quality testing.
 
-My work sits across **data engineering, analytics, machine learning, and research**. I have published IEEE research on **Pix2Pix-GAN lung segmentation** and I am currently working on research exploring **LLMs in reinforcement learning**.
+At Power Tech, I built Python workflows across 17 datasets and helped reduce processing time by 40%. My projects include warehouse validation, pipeline monitoring, fraud alerting, and SQL Server analytics. I have published IEEE research on **Pix2Pix GAN lung segmentation** and have a second paper accepted in IEEE on **LLMs in reinforcement learning**.
 
-I like building projects that go beyond coursework: streaming fraud systems, self-healing data pipelines, research intelligence engines, IoT monitoring dashboards, and agentic LLM workflows.
+I am completing my final semester and am available to start work on January 15, 2027.
 
 ---
 
@@ -39,59 +39,27 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,r,js,nodejs,java,postgres,mysql,mongodb,aws,docker,git,github,firebase,flutter,html,css" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,git" alt="Tech stack icons" />
 
 </div>
 
-**Data & Analytics:** SQL, PostgreSQL, SQL Server, MySQL, Power BI, Tableau, Excel, ETL, DBMS, data modeling, statistical analysis  
-**Machine Learning & AI:** Scikit-learn, regression, ANOVA, PPO, LLMs, LangGraph, Ollama, MuJoCo, Pix2Pix-GAN  
-**Cloud & Tools:** AWS S3/Lambda, Docker, Redpanda/Kafka, FastAPI, Streamlit, DigitalOcean, PM2, nginx, REST APIs, Git, StarRez, Leaflet
+**Data Quality & Testing:** ETL testing, regression testing, pytest, source-to-target validation, data reconciliation, profiling, and validation
+
+**Data Engineering & Databases:** Python, Pandas, SQL, Snowflake, dbt, PostgreSQL, SQL Server, MySQL, Redis, Airflow, Spark, Redpanda, data modeling
+
+**Cloud & Tools:** AWS S3, AWS Lambda, Docker, Docker Compose, DigitalOcean, Power BI, Git
+
+**AI / ML & Backend:** scikit-learn, TensorFlow, OpenCV, Llama, Sentence-BERT, PPO, MATLAB, Node.js, FastAPI, Streamlit, REST APIs
 
 ---
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Card Fraud Detection and Alerting Platform</h3>
-      <p>Scores synthetic card transactions in real time with Redpanda/Kafka, Python consumers, PostgreSQL, Redis, FastAPI, Streamlit, and Docker.</p>
-      <p><a href="https://github.com/suff28/finguard-fraud-intelligence-platform">GitHub</a></p>
-    </td>
-    <td width="50%">
-      <h3>Pipeline Health Monitor</h3>
-      <p>Normalizes messy CSV feeds, validates schema/type/domain rules, quarantines failed records, scores pipeline health, and generates repair suggestions.</p>
-      <p><a href="https://github.com/suff28/datapulse-ai-self-healing-pipeline">GitHub</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Research Evidence Explorer</h3>
-      <p>Indexes AI and medical imaging papers, extracts methods/datasets/metrics, and builds graph relationships around research tasks, including my IEEE paper.</p>
-      <p><a href="https://github.com/suff28/papergraph-research-intelligence-engine">GitHub</a></p>
-    </td>
-    <td width="50%">
-      <h3>CleanCampus Urban Heat Island Dashboard</h3>
-      <p>BU IoT monitoring dashboard using Node.js, PostgreSQL, Leaflet, PM2/nginx, and DigitalOcean to collect live sensor readings and map campus heat patterns.</p>
-      <p>
-        <a href="https://github.com/suff28/cleancampus-urban-heat-island">GitHub</a> |
-        <a href="https://suff28.github.io/cleancampus-urban-heat-island/">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Multi Agent Web Research Assistant</h3>
-      <p>Local multi-agent QA workflow using LangGraph/Ollama with researcher, evaluator, and writer agents that search, rank evidence, and return sourced answers.</p>
-      <p><a href="https://github.com/suff28/multi-agent-web-qa-system">GitHub</a></p>
-    </td>
-    <td width="50%">
-      <h3>Formula 1 Pit Stop Analysis and Prediction</h3>
-      <p>Formula 1 analytics warehouse with Python ETL, SQL Server schema design, ERD modeling, star-schema reporting, and slow pit-stop prediction.</p>
-      <p><a href="https://github.com/suff28/formula1-pitstop-dbms">GitHub</a></p>
-    </td>
-  </tr>
-</table>
+1. **[Data Quality and ETL Validation Framework](https://github.com/suff28/warehouse-quality-platform)** — Synthetic warehouse checks with dbt, Python regression tests, Snowflake SQL validation, and source-to-target reconciliation.
+2. **[Pipeline Health Monitor](https://github.com/suff28/datapulse-ai-self-healing-pipeline)** — Synthetic order validation with pipeline monitoring and rejected-record tracking.
+3. **[Card Fraud Detection and Alerting Platform](https://github.com/suff28/finguard-fraud-intelligence-platform)** — Python transaction scoring with Redpanda, PostgreSQL, and Redis.
+4. **[Formula 1 Pit Stop Analysis and Prediction](https://github.com/suff28/formula1-pitstop-dbms)** — SQL Server data modeling, Python ETL, and slow pit-stop prediction.
+5. **[CleanCampus Urban Heat Island Dashboard](https://github.com/suff28/cleancampus-urban-heat-island)** — Boston University sensor research with PostgreSQL, Node.js APIs, and a Leaflet dashboard.
 
 ---
 
@@ -102,7 +70,7 @@ I like building projects that go beyond coursework: streaming fraud systems, sel
   [IEEE](https://ieeexplore.ieee.org/document/10939550/) | [Google Scholar](https://scholar.google.com/citations?user=XSDrhfMAAAAJ&hl=en)
 
 - **LLMs in Reinforcement Learning: Comparative Analysis**  
-  Ongoing research with a Machine Learning professor comparing LLM-guided policy shaping and reward design in PPO-based reinforcement learning.
+  Accepted in IEEE. Compared Llama 2 7B and Sentence-BERT with PPO using policy guidance and reward shaping.
 
 ---
 
@@ -131,7 +99,7 @@ Includes Google Data Analytics, R programming, cloud computing, cybersecurity, p
 
 <div align="center">
 
-  <strong>Open to data engineering, data analytics, machine learning, and applied AI opportunities.</strong>
+  <strong>Open to data engineering and data quality opportunities.</strong>
 
   <br />
   <br />
