@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/suff28">
     <img src="https://img.shields.io/badge/LinkedIn-suff28-83a8ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
+  <a href="https://suff28.github.io/assets/docs/Mohammed_Sufiyan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-7652a8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume" />
+  </a>
   <a href="https://scholar.google.com/citations?user=XSDrhfMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Research-f4d35e?style=for-the-badge&logo=googlescholar&logoColor=070917" alt="Google Scholar badge" />
   </a>
